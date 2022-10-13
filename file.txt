@@ -1,1 +1,2 @@
 This is ny first file
+git merge master -m "Trying to merge again"
